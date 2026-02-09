@@ -14,7 +14,7 @@ This project is part of the [Roadmap.sh Single-Page CV project](https://roadmap.
 I utilized a side-by-side workflow to ensure the build matched the requirements as closely as possible within the hour timeframe.
 
 ![Project Build Comparison](image_6a113c.png)
-*(Note: Replace with your actual screenshot filename once uploaded to GitHub)*
+
 
 ## Tech Stack & Styling
 * **HTML5:** Semantic list structures and basic document flow.
