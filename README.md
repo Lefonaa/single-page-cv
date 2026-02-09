@@ -13,7 +13,7 @@ This build is part of the [Roadmap.sh Single-Page CV project](https://roadmap.sh
 ## Visual Comparison
 Below is the side-by-side comparison of the design requirements versus my final build.
 
-![Project Build Comparison](single-page-cv.png)
+![Project Build Comparison](single-page-cv-screenshot.png)
 
 ## Tech Stack
 * **HTML5:** Structuring content with headings and lists.
