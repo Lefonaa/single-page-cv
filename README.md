@@ -13,7 +13,7 @@ This project is part of the [Roadmap.sh Single-Page CV project](https://roadmap.
 ## Visual Reference
 I utilized a side-by-side workflow to ensure the build matched the requirements as closely as possible within the hour timeframe.
 
-![Project Build Comparison](image_6a113c.png)
+![Project Build Comparison](single page cv.png)
 
 
 ## Tech Stack & Styling
